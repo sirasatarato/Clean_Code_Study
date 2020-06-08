@@ -17,7 +17,7 @@ fun multi(n: Int){
 ```
 
 ### 서술적 이름
-[Clean Code 이름]()
+[Clean Code 이름](https://github.com/sirasatarato/Clean_Code_Study/blob/master/%EC%9D%B4%EB%A6%84/name.md)
 ```
 testableHtml -> SetupTeardownIncluder
 ```
